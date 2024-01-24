@@ -1,6 +1,7 @@
 # video_call
 
-A new Flutter project.
+플러터로 만든 화상 채팅 어플
+agora api를 활용하여 개발함.
 
 ## Getting Started
 
